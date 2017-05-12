@@ -10,4 +10,6 @@ Top ten favorite pokemon(this is my opinion)
 <h1>#9 Rhyperior</h1>
 <p>I like this pokemon because he looks so cool it looks like someone carved it out of rock and gave it a huge rock ball on it's tail.The worst thing about this pokemon is its speed needs to be higher.</p>
 <h1>#8 Gyarados</h1>
-<p>I like Gyarados because he is a sepintine cat creature.He has pretty good stats but he is a water flyiing that does not go with the water dragon pokemon that he looks like.
+<p>I like Gyarados because he is a sepintine cat creature.He has pretty good stats but he is a water flying that does not go with the water dragon pokemon that he looks like.
+<h1>#7 Leavanny</h1>
+<p>I like this pokemon because he looks like a bug that got itself in a buunch of leaves accidentaly glued together</p>
